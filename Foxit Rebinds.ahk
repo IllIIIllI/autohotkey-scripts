@@ -9,5 +9,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
     k::Up
     h::Left
     l::Right
+    J::^+Tab
+    K::^Tab
 
 #IfWinActive
